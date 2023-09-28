@@ -8,7 +8,7 @@
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
   - [Configuration](#configuration)
-  - [Running the Application](#running-the-application)
+- [Possible Issues](#possible-issues)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -54,6 +54,13 @@ static {
    ```
 
    The application will scan the specified folder for `.txt` files, detect their encodings, and sort them into the corresponding folders based on your configuration.
+
+## Possible Issues
+
+Please note that the accuracy of encoding detection may not always be perfect, especially for certain ANSI and UTF8 `.txt` files. Apache Tika's detection algorithms may incorrectly label some files as `ISO-8859-1` or `Windows-1252` when they are actually in `ANSI` or `UTF-8` encoding.
+
+If you encounter files that are incorrectly labeled, you can manually move them to the correct folders after running the application.
+
 
 ## Contributing
 
