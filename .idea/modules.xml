@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Unicode and ANSI encoding sorter.iml" filepath="$PROJECT_DIR$/Unicode and ANSI encoding sorter.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Encoding_sorter_with_Interfase.iml" filepath="$PROJECT_DIR$/.idea/Encoding_sorter_with_Interfase.iml" />
+>>>>>>> 7ceb8ee (first commit)
     </modules>
   </component>
 </project>
