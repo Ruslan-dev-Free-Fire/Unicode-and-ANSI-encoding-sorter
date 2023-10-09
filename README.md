@@ -1,6 +1,8 @@
-# File Encoding Sorter
+# File Encoding Sorter (Java)
 
 **File Encoding Sorter** is a Java application that helps you organize and sort text files based on their character encodings. It can automatically detect the encoding of each text file and move them to the appropriate folders according to the specified encoding-to-folder mapping.
+
+For the Python version of this project, please visit the [Python branch](https://github.com/Ruslan-dev-Free-Fire/Unicode-and-ANSI-encoding-sorter/tree/python_version).
 
 ## Table of Contents
 
@@ -60,7 +62,6 @@ static {
 Please note that the accuracy of encoding detection may not always be perfect, especially for certain ANSI and UTF8 `.txt` files. Apache Tika's detection algorithms may incorrectly label some files as `ISO-8859-1` or `Windows-1252` when they are actually in `ANSI` or `UTF-8` encoding.
 
 If you encounter files that are incorrectly labeled, you can manually move them to the correct folders after running the application.
-
 
 ## Contributing
 
