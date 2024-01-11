@@ -3,6 +3,7 @@
 **File Encoding Sorter (Python)** is a Python application that helps you organize and sort text files based on their character encodings. It can automatically detect the encoding of each text file and move them to the appropriate folders according to the specified encoding-to-folder mapping.
 
 For the original Java version, please visit [here](https://github.com/Ruslan-dev-Free-Fire/Unicode-and-ANSI-encoding-sorter).
+
 File-Encoding-Sorter-WebApp- , please visit [here](https://github.com/Ruslan-dev-Free-Fire/File-Encoding-Sorter-WebApp-).
 
 ## Table of Contents
