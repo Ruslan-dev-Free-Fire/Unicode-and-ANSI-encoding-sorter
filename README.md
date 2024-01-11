@@ -4,7 +4,7 @@
 
 For the original Java version, please visit [here](https://github.com/Ruslan-dev-Free-Fire/Unicode-and-ANSI-encoding-sorter).
 
-File-Encoding-Sorter-WebApp- , please visit [here](https://github.com/Ruslan-dev-Free-Fire/File-Encoding-Sorter-WebApp-).
+File Encoding Sorter WebApp- , please visit [here](https://github.com/Ruslan-dev-Free-Fire/File-Encoding-Sorter-WebApp-).
 
 ## Table of Contents
 
